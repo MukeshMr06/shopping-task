@@ -351,7 +351,7 @@ const Secondpage = () => {
               <p className='font-bold text-2xl'>$212</p>
             </div>
             <div className='flex flex-col gap-2 min-w-[250px] md:min-w-0'>
-              <img className='w-full rounded-xl' src={img5} alt='' />
+              <img className='w-full rounded-xl' src={img6} alt='' />
               <h4 className='text-xl font-bold'>Polo with Contrast Trims</h4>
               <div className='flex gap-1.5 items-center'>
                 <img src={star} alt='' />

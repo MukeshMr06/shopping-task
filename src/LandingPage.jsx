@@ -28,7 +28,7 @@ const LandingPage = () => {
             <button className='bg-black font-medium text-base text-white rounded-full p-2 px-8 py-2'>Shop Now</button>
             <div className='grid grid-cols-2 mx-1 md:grid-cols-3 md:w-[600px]'>
               <div className=''>
-                <p className='font-bold  text-xl'>200+</p>
+                <p className='font-bold  text-4xl'>200+</p>
                 <p className='font-normal text-base'>Interational Brands</p>
               </div>
               <div>
