@@ -10,7 +10,7 @@ import arr from './assets/secondpageimg/arr.svg'
 import filter from './assets/secondpageimg/filter.svg'
 import { BsThreeDots } from "react-icons/bs";
 import Tick from './assets/tick.svg'
-import star from './assets/star.svg' 
+import star from './assets/secondpageimg/star.svg'
 import half from './assets/halfstar.svg'
 import { useNavigate } from 'react-router-dom'
 

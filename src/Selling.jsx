@@ -3,7 +3,7 @@ import tshirt5 from './assets/tshirt5.svg'
 import tshirt6 from './assets/tshirt6.svg'
 import tshirt7 from './assets/tshirt7.svg'
 import tshirt8 from './assets/tshirt8.svg'
-import star from './assets/star.svg'
+import star from './assets/secondpageimg/star.svg'
 import half from './assets/halfstar.svg'
 
 

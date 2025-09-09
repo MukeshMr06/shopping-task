@@ -2,7 +2,7 @@ import React from 'react'
 import Right from './assets/rightarrow.svg'
 import Left from './assets/leftarrow.svg'
 import Tick from './assets/tick.svg'
-import star from './assets/star.svg'
+import star from './assets/secondpageimg/star.svg'
 import half from './assets/halfstar.svg'
 
 

@@ -12,7 +12,7 @@ import img8 from './assets/thirdpageimg/img8.svg'
 import img9 from './assets/thirdpageimg/img9.svg'
 import left from './assets/leftarrow.svg'
 import right from './assets/rightarrow.svg'
-import star from './assets/star.svg'
+import star from './assets/secondpageimg/star.svg'
 import half from './assets/halfstar.svg'
 import { useNavigate } from 'react-router-dom'
 

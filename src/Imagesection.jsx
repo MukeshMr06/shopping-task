@@ -2,7 +2,7 @@ import tshirt1 from './assets/tshirt1.svg'
 import tshirt2 from './assets/tshirt2.svg'
 import tshirt3 from './assets/tshirt3.svg'
 import tshirt4 from './assets/tshirt4.svg'
-import star from './assets/star.svg'
+import star from './assets/secondpageimg/star.svg'
 import half from './assets/halfstar.svg'
 import { useNavigate } from 'react-router-dom'
 
